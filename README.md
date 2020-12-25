@@ -19,7 +19,7 @@ github:
       - url: "another-webhook-job/"
         key: key
         filter:
-          ref: refs/heads/test
+          ref: refs/heads/stable
 
 ```
 
