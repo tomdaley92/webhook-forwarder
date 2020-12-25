@@ -1,5 +1,4 @@
 HOST=http://0.0.0.0:5000
-#HOST=https://hooks.occ.starbucks.net
 
 curl \
 -X POST \
