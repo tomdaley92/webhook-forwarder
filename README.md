@@ -24,7 +24,7 @@ github:
 ```
 
 ## Installing Dependencies
-1. Install python3.7
+1. Install python 3.7+
 2. Navigate into the project directory
 3. Type `python3 -m venv venv` to create a virtual environment
 4. Type `source venv/bin/activate` to activate the virtual environment
