@@ -27,7 +27,7 @@ ENV PYTHONUNBUFFERED=TRUE
 
 # Install app dependencies
 COPY requirements.txt requirements.txt
-RUN pip3 install --trusted-host pypi.occ.starbucks.net --extra-index-url https://pypi.occ.starbucks.net/ -r requirements.txt
+RUN pip3 install --trusted-host pypi.diesel.net --extra-index-url https://pypi.diesel.net/ -r requirements.txt
 
 # WSGI integration
 COPY gunicorn.py gunicorn.py
