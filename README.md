@@ -1,4 +1,4 @@
-# hooks-forwarder
+# webhook-forwarder
 Webhook Forwarder for Triggering CI/CD pipelines with more control. This allows us to filter requests by `git refs`.
 
 ## Configuration file
